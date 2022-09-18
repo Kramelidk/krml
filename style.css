@@ -50,6 +50,8 @@ a:hover{
 body{
     font-family: 'Source Code Pro', monospace;
     animation-name: main1;
+    background-color: black;
+    color: white;
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
 }
